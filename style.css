@@ -1,6 +1,6 @@
 /* Body styling */
 body {
-  background: #21a4cc;
+  background: #205480;
   color: #fff;
   font-family: Trebuchet MS;
   font-size: 27px;
@@ -65,7 +65,7 @@ h1 {
 .choice-bucket input {
   border: 0;
   border-radius: 6px;
-  color: #c76f18;
+  color: #1d1733;
   font-size: 18px;
   margin: 15px 4%;
   outline: 0;
